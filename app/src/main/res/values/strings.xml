@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bay Praise</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_church_registration">Cadastro Igreja</string>
+    <string name="title_user_registration">Cadastro do usuário</string>
+    <string name="title_date_worship_registration">Data do culto</string>
+    <string name="title_musical_instrument">Data do culto</string>
+
+</resources>
